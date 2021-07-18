@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ZhYrFgm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ZhYrFgm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="300" height="500" />
 
 <!-- ![](https://i.imgur.com/ZhYrFgm.gif) -->
 
