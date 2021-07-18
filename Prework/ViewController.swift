@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var billAmountTextField: UITextField!
     @IBOutlet weak var tipAmountLabel: UILabel!
-    @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipSlider: UISlider!
     @IBOutlet weak var sliderPercent: UILabel!
@@ -22,6 +21,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        billAmountTextField.becomeFirstResponder()
         // Do any additional setup after loading the view.
     }
     
